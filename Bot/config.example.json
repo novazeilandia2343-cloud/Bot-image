@@ -1,0 +1,8 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+  "clientId": "ID_DO_BOT",
+  "guildId": "ID_DO_SERVIDOR",
+  "prefix": "!",
+  "embedColor": "#2b2d31",
+  "staffRoleName": "Staff"
+}
